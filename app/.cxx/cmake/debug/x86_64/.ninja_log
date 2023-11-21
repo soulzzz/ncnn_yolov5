@@ -1,0 +1,19 @@
+# ninja log v5
+3	676	713791996	CMakeFiles/ncnnyolov5.dir/ndkcamera.cpp.o	fd842dcfa2f74fe7
+0	730	713791996	CMakeFiles/ncnnyolov5.dir/yolov5ncnn.cpp.o	ab8896e529181675
+6	803	713791996	CMakeFiles/ncnnyolov5.dir/yolov5.cpp.o	fcc5d237332f94cd
+803	1460	713791997	D:/As_saves/ncnn_yolov5_camera/app/build/intermediates/cmake/debug/obj/x86_64/libncnnyolov5.so	159757e20de41ae2
+0	6	0	clean	7c47bd8bf62a0f14
+0	6	0	clean	7c47bd8bf62a0f14
+5	659	713878987	CMakeFiles/ncnnyolov5.dir/ndkcamera.cpp.o	fd842dcfa2f74fe7
+2	766	713878987	CMakeFiles/ncnnyolov5.dir/yolov5.cpp.o	fcc5d237332f94cd
+9	774	713878987	CMakeFiles/ncnnyolov5.dir/yolov5ncnn.cpp.o	ab8896e529181675
+774	1470	713878988	D:/As_saves/ncnn_yolov5_camera/app/build/intermediates/cmake/debug/obj/x86_64/libncnnyolov5.so	159757e20de41ae2
+4	642	713881262	CMakeFiles/ncnnyolov5.dir/yolov5ncnn.cpp.o	ab8896e529181675
+1	703	713881262	CMakeFiles/ncnnyolov5.dir/yolov5.cpp.o	fcc5d237332f94cd
+704	1111	713881263	D:/As_saves/ncnn_yolov5_camera/app/build/intermediates/cmake/debug/obj/x86_64/libncnnyolov5.so	159757e20de41ae2
+0	8	0	clean	7c47bd8bf62a0f14
+6	716	713882984	CMakeFiles/ncnnyolov5.dir/ndkcamera.cpp.o	fd842dcfa2f74fe7
+8	768	713882984	CMakeFiles/ncnnyolov5.dir/yolov5ncnn.cpp.o	ab8896e529181675
+2	830	713882984	CMakeFiles/ncnnyolov5.dir/yolov5.cpp.o	fcc5d237332f94cd
+830	1427	713882985	D:/As_saves/ncnn_yolov5_camera/app/build/intermediates/cmake/debug/obj/x86_64/libncnnyolov5.so	159757e20de41ae2

@@ -1,0 +1,54 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 24 min SDK version: x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository."
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027D:\\As_sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86\\android_gradle_build.json due to:"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86\\android_gradle_build.json file is not present, will remove stale json folder"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86\\build_command.txt, will remove stale json folder"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : D:\\As_sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HD:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\n-BD:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86\n-DANDROID_ABI\u003dx86\n-DANDROID_PLATFORM\u003dandroid-24\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\As_saves\\ncnn_yolov5_camera\\app\\build\\intermediates\\cmake\\release\\obj\\x86\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DANDROID_NDK\u003dD:\\As_sdk\\ndk\\21.4.7075529\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_ANDROID_ARCH_ABI\u003dx86\n-DCMAKE_SYSTEM_VERSION\u003d24\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_ANDROID_NDK\u003dD:\\As_sdk\\ndk\\21.4.7075529\n-DCMAKE_TOOLCHAIN_FILE\u003dD:\\As_sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake\n-G Ninja\n-DCMAKE_MAKE_PROGRAM\u003dD:\\As_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\njvmArgs : \n\n"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86\\build_output.txt"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86\\build_command.txt"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems"
+  }
+]

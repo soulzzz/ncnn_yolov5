@@ -1,0 +1,64 @@
+{
+  "stringTable": {
+    "0": "D:/As_saves/ncnn_yolov5_camera/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi24 --gcc-toolchain=D:/As_sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/As_sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dncnnyolov5_EXPORTS -isystem D:/As_saves/ncnn_yolov5_camera/app/src/main/jni/ncnn-20230517-android-vulkan/armeabi-v7a/include/ncnn -isystem D:/As_saves/ncnn_yolov5_camera/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions -std=gnu++11"
+  },
+  "buildFiles": [
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules.cmake",
+    "D:\\As_sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVConfig.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\armeabi-v7a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\armeabi-v7a\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "D:\\As_sdk\\ndk\\21.4.7075529\\build\\cmake\\platforms.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-armeabi-v7a\\OpenCVModules-release.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\As_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\As_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ncnnyolov5-Debug-armeabi-v7a": {
+      "buildCommand": "D:\\As_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" ncnnyolov5",
+      "buildType": "debug",
+      "toolchain": "1690529005",
+      "abi": "armeabi-v7a",
+      "artifactName": "ncnnyolov5",
+      "files": [
+        {
+          "src": "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\yolov5ncnn.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\yolov5.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ndkcamera.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\As_saves\\ncnn_yolov5_camera\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libncnnyolov5.so"
+    }
+  },
+  "toolchains": {
+    "1690529005": {
+      "cppCompilerExecutable": "D:\\As_sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

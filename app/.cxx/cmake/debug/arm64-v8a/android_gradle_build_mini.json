@@ -1,0 +1,31 @@
+{
+  "buildFiles": [
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules-release.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\arm64-v8a\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "D:\\As_sdk\\ndk\\21.4.7075529\\build\\cmake\\android.toolchain.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\OpenCVConfig-version.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVConfig.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\opencv-mobile-4.5.1-android\\sdk\\native\\jni\\abi-arm64-v8a\\OpenCVModules.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\arm64-v8a\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\arm64-v8a\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\As_sdk\\ndk\\21.4.7075529\\build\\cmake\\platforms.cmake",
+    "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ncnn-20230517-android-vulkan\\arm64-v8a\\lib\\cmake\\glslang\\glslang-config-version.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\As_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\As_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "ncnnyolov5-Debug-arm64-v8a": {
+      "artifactName": "ncnnyolov5",
+      "buildCommand": "D:\\As_sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\debug\\arm64-v8a\" ncnnyolov5",
+      "abi": "arm64-v8a",
+      "output": "D:\\As_saves\\ncnn_yolov5_camera\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libncnnyolov5.so"
+    }
+  }
+}

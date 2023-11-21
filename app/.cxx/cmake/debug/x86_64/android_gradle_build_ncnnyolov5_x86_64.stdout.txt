@@ -1,0 +1,5 @@
+ninja: Entering directory `D:\As_saves\ncnn_yolov5_camera\app\.cxx\cmake\debug\x86_64'
+[1/4] Building CXX object CMakeFiles/ncnnyolov5.dir/ndkcamera.cpp.o
+[2/4] Building CXX object CMakeFiles/ncnnyolov5.dir/yolov5ncnn.cpp.o
+[3/4] Building CXX object CMakeFiles/ncnnyolov5.dir/yolov5.cpp.o
+[4/4] Linking CXX shared library D:\As_saves\ncnn_yolov5_camera\app\build\intermediates\cmake\debug\obj\x86_64\libncnnyolov5.so

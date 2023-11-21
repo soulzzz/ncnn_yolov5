@@ -1,0 +1,19 @@
+[
+{
+  "directory": "D:/As_saves/ncnn_yolov5_camera/app/.cxx/cmake/debug/x86_64",
+  "command": "D:\\As_sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --gcc-toolchain=D:/As_sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/As_sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dncnnyolov5_EXPORTS -isystem D:/As_saves/ncnn_yolov5_camera/app/src/main/jni/ncnn-20230517-android-vulkan/x86_64/include/ncnn -isystem D:/As_saves/ncnn_yolov5_camera/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\ncnnyolov5.dir\\yolov5ncnn.cpp.o -c D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\yolov5ncnn.cpp",
+  "file": "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\yolov5ncnn.cpp"
+},
+
+{
+  "directory": "D:/As_saves/ncnn_yolov5_camera/app/.cxx/cmake/debug/x86_64",
+  "command": "D:\\As_sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --gcc-toolchain=D:/As_sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/As_sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dncnnyolov5_EXPORTS -isystem D:/As_saves/ncnn_yolov5_camera/app/src/main/jni/ncnn-20230517-android-vulkan/x86_64/include/ncnn -isystem D:/As_saves/ncnn_yolov5_camera/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\ncnnyolov5.dir\\yolov5.cpp.o -c D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\yolov5.cpp",
+  "file": "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\yolov5.cpp"
+},
+
+{
+  "directory": "D:/As_saves/ncnn_yolov5_camera/app/.cxx/cmake/debug/x86_64",
+  "command": "D:\\As_sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android24 --gcc-toolchain=D:/As_sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/As_sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dncnnyolov5_EXPORTS -isystem D:/As_saves/ncnn_yolov5_camera/app/src/main/jni/ncnn-20230517-android-vulkan/x86_64/include/ncnn -isystem D:/As_saves/ncnn_yolov5_camera/app/src/main/jni/opencv-mobile-4.5.1-android/sdk/native/jni/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -std=gnu++11 -o CMakeFiles\\ncnnyolov5.dir\\ndkcamera.cpp.o -c D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ndkcamera.cpp",
+  "file": "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\ndkcamera.cpp"
+}
+]

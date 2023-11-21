@@ -1,0 +1,3 @@
+D:/As_saves/ncnn_yolov5_camera/app/.cxx/cmake/debug/x86_64/CMakeFiles/ncnnyolov5.dir
+D:/As_saves/ncnn_yolov5_camera/app/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+D:/As_saves/ncnn_yolov5_camera/app/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

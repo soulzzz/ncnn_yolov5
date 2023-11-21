@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\As_saves\\ncnn_yolov5_camera",
+      "sdkFolder": "D:\\As_sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\As_saves\\ncnn_yolov5_camera\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\As_saves\\ncnn_yolov5_camera\\app",
+      "makeFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\src\\main\\jni\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\As_saves\\ncnn_yolov5_camera\\.cxx",
+      "cxxFolder": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx",
+      "ndkFolder": "D:\\As_sdk\\ndk\\21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "D:\\As_saves\\ncnn_yolov5_camera\\app\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "D:\\As_saves\\ncnn_yolov5_camera\\app\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86",
+  "jsonFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cxx\\release\\x86",
+  "objFolder": "D:\\As_saves\\ncnn_yolov5_camera\\app\\build\\intermediates\\cmake\\release\\obj\\x86",
+  "buildCommandFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86\\build_command.txt",
+  "buildOutputFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86\\build_output.txt",
+  "modelOutputFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cxx\\release\\x86\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cxx\\release\\x86\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cxx\\release\\x86\\build_generation_state.json",
+    "cacheKeyFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cxx\\release\\x86\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cxx\\release\\x86\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cxx\\release\\x86\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cxx\\release\\x86\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\As_saves\\ncnn_yolov5_camera\\app\\.cxx\\cmake\\release\\x86\\compile_commands.json"
+}

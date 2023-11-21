@@ -1,0 +1,70 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.soul.yolov5"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->[com.android.support.constraint:constraint-layout:2.0.4] C:\Users\esoterik.xiao\.gradle\caches\transforms-2\files-2.1\53058a012b298c1f97627ec54ab8603b\constraint-layout-2.0.4\AndroidManifest.xml:7:9-38
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:7:5-81
+11-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:7:22-78
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:8:5-65
+12-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:8:22-62
+13
+14    <uses-feature android:name="android.hardware.camera" />
+14-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:10:5-60
+14-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:10:19-57
+15    <uses-feature android:name="android.hardware.camera2.full" />
+15-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:11:5-66
+15-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:11:19-63
+16
+17    <application
+17-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:13:5-34:19
+18        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+18-->[com.android.support:support-compat:28.0.0] C:\Users\esoterik.xiao\.gradle\caches\transforms-2\files-2.1\dd1cf78f22bdd94f550130b281f27c97\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+19        android:debuggable="true"
+20        android:label="@string/app_name"
+20-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:14:9-41
+21        android:testOnly="true" >
+22        <activity
+22-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:15:9-23:20
+23            android:name="com.soul.yolov5.ImageDetectActivity"
+23-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:16:13-48
+24            android:exported="true" >
+24-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:17:13-36
+25
+26            <!-- <intent-filter> -->
+27            <!-- <action android:name="android.intent.action.MAIN" /> -->
+28
+29
+30            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+31            <!-- </intent-filter> -->
+32        </activity>
+33        <activity
+33-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:24:9-33:20
+34            android:name="com.soul.yolov5.MainActivity"
+34-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:25:13-41
+35            android:label="@string/app_name"
+35-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:26:13-45
+36            android:screenOrientation="portrait" >
+36-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:27:13-49
+37            <intent-filter>
+37-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:28:13-32:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:29:17-69
+38-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:29:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:31:17-77
+40-->D:\As_saves\ncnn_yolov5_camera\app\src\main\AndroidManifest.xml:31:27-74
+41            </intent-filter>
+42        </activity>
+43    </application>
+44
+45</manifest>
